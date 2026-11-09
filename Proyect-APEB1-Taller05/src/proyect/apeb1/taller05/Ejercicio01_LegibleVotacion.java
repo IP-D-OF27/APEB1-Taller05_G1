@@ -26,5 +26,12 @@ public class Ejercicio01_LegibleVotacion {
         else
             System.out.println("No es legible para votar");
     }
-    
 }
+
+/***
+ * run:
+Deme edad
+16
+es legible para votar
+BUILD SUC
+ */
