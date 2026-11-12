@@ -2,8 +2,7 @@
 import java.util.Scanner;
 
 /**
- * Ejercicio 01: Edad para Votar: Determinar si una persona es elegible para 
- * votar en función de su edad (mayor o igual a 16 años).
+ * Ejercicio 08:OrdenamientodeTresNúmeros: Dados tres números, ordenarlos en orden ascendente.
  * @author NombreAutor
  * @version 1.0
  */
@@ -16,7 +15,7 @@ package proyect.apeb1.taller05;
  *
  * @author iStore Ec
  */
-public class Ejercicio09_LegibleVotacion {
+public class Ejercicio09_OrdenamientodeTresNúmeros {
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
         System.out.println("Deme edad");

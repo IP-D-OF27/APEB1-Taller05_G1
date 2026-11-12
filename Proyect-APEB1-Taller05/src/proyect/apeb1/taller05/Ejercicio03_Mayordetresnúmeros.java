@@ -19,7 +19,7 @@ public class Ejercicio03_Mayordetresnúmeros {
         if (numero1 > numero2) {
             if (numero1 > numero3) {
                 System.out.println("El numero mayor es:  " + numero1);
-            } else {
+            }else {
                 System.out.println("El numero mayor es:  " + numero3);
             }
         } else if (numero2 > numero3) {
