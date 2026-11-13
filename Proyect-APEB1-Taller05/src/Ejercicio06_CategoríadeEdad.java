@@ -1,4 +1,3 @@
-package proyect.apeb1.taller05;
 
 import java.util.Scanner;
 

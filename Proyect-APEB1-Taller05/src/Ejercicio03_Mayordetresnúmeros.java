@@ -1,4 +1,3 @@
-package proyect.apeb1.taller05;
 import java.util.Scanner;
 
 /**
@@ -30,11 +29,12 @@ public class Ejercicio03_Mayordetresnúmeros {
     }
 }
 
-/***
- * EVIDENCIA DEL RUN:
+/**
+ EVIDENCIA DEL RUN:
 Ingrese un numero:  9
 Ingrese un numero:  7
 ingrese un numero:  2
 El numero mayor es:  9
+*/
 
 
